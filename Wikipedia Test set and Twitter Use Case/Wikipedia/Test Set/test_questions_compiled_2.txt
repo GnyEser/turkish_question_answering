@@ -1,0 +1,1222 @@
+﻿|
+
+context : Amerika Birleşik Devletleri, (İngilizce: United States of America [USA]), Birleşik Devletler ya da kısaca ABD veya Amerika, elli eyalet ve bir federal bölgeden oluşan bir federal anayasal cumhuriyettir. Ülkenin çoğu (48 eyaleti olan kıtasal ABD ve ülkenin federal bölgesi olan Washington, DC), Kuzey Amerika'nın ortasında, Büyük Okyanus ve Atlas Okyanusu'nun arasında bulunmaktadır. Bu ülkenin vatandaşlarına Amerikalı veya Amerikan denir.
+
+Kuzeyinde Kanada, güneyinde ise Meksika ile sınırı bulunur. Alaska bölgesi, kıtanın kuzeybatısında bulunarak doğusunda Kanada ve batısında Bering Boğazı'nın öbür tarafında bulunan Rusya'nın arasında bulunmaktadır. Hawaii eyaleti, Büyük Okyanus'un ortasında bulunan bir takımadadır. Ayrıca Karayipler ve Büyük Okyanus'ta bulunan denizaşırı topraklara sahiptir. Resmî kuruluş tarihi 4 Temmuz 1776'dır.
+
+Doğuda Atlas Okyanusu'ndan, batıda Büyük Okyanus'a kadar 4.500 km genişliğindedir. Alaska ve Hawaii'yi de içine alan Amerika Birleşik Devletleri'nin 9 milyon kilometrekareden fazla yüzölçümü vardır. Hawaii ise, Büyük Okyanus'ta olup, kıta üzerindeki Amerika Birleşik Devletleri'nden 3.200 kilometre uzaklıktadır. Alaska 50 eyaletin içinde yüzölçümü en büyük olanıdır. Ülkenin güney tarafında bulunan Teksas bu bakımdan ikinci sırada gelmektedir. ABD, Basın Özgürlüğü Endeksi'nde 49. sırada yer almaktadır.
+|
+
+topic: Amerika Birleşik Devletleri
+
+|
+question: Amerika Birleşik Devletleri kaç eyaletten oluşmaktadır?
+
+answer: Elli eyalet
+
+id: 001
+|
+question: Amerika Birleşik Devletleri'nin hangi ülkelerle sınırı vardır?
+
+answer: Kanada ve Meksika
+
+id: 002
+
+|
+question: Amerika Birleşik Devletleri'nin yüzölçümü ne kadardır?
+
+answer: 9 milyon kilometrekareden fazla
+
+id: 003
+|
+question: Amerika Birleşik Devletleri'nin yüzölçümü en büyük eyaleti neresidir?
+
+answer: Alaska
+
+id: 004
+|
+question: Amerika Birleşik Devletleri basın özgürlüğünde kaçıncı sıradadır?
+
+answer: 49. sırada yer almaktadır.
+
+id: 005
+
+|
+
+context: Budizm, bugün dünya üzerinde yaklaşık 500 milyonu aşkın inananı bulunan bir dindir. İlk önce Hindistan’da ortaya çıkmış, daha sonra zaman içinde Güneydoğu ve Doğu Asya’da (Çin, Japonya, Kore, Moğolistan, Nepal, Sri Lanka, Tayland ve Tibet gibi ülkelerde) yayılmıştır.
+
+Farklı bakış açılarına göre din veya felsefe olarak tanımlanan Budizm'in hedefi; hayattaki acı, ıstırap ve tatminsizliğin kaynaklarını açıklamak ve bunları gidermenin yollarını göstermektir. Budizm'de öğretilerin ana çatısını meditasyon gibi içe bakış yöntemleri, reenkarnasyon denilen doğum-ölüm döngüsünün tekrarı ve karma denilen neden-sonuç zinciri gibi kavramlar oluşturmaktadır.
+
+Budizm, Sanskritçe ve Pali dillerindeki eski Budist metinlerinde 'uyanmış kişi - farkında olan' anlamına gelen Buddha kelimesinden türetilmiştir. "Tarihî Buda" da denilen Siddhartha, Budizm'in kurucusu olarak kabul edilir. Siddharta’nın hayattaki acıların kaynağını açıklamak amacıyla yaptığı uzun çalışmalar sonucu ıstırabı sona erdirecek bir mânevî anlayışa ulaştığı ve böylelikle Budalık'a eriştiği kabul edilir.
+
+Budizm, Siddhartha Gautama'nın ölümünden sonra 500 sene boyunca Hint Yarımadası'nda, daha sonra Asya ve Dünya'nın geri kalanında yayılmaya başladı. Hindistan'da zamanla etkisini yitiren Budizm, Güneydoğu Asya ve Uzak Doğu kültüründe etkisini günümüze kadar devam ettirmiştir.
+|
+
+topic: Budizm
+
+|
+question: Günümüzde budizme inanan kaç kişi bulunmaktadır/vardır?
+
+answer: yaklaşık 500 milyonu aşkın
+
+id: 006
+|
+question: Budizm nerede/hangi ülkede ortaya çıkmıştır ?
+
+answer: Hindistan
+
+id: 007
+|
+question: Budizmin amacı/hedefi nedir?
+
+answer: Hayattaki acı, ıstırap ve tatminsizliğin kaynaklarını açıklamak ve bunları gidermenin yollarını göstermektir.
+
+id: 008
+|
+question: Budizmin kurucusu kimdir?
+
+answer: Siddhartha
+
+id: 009
+|
+question: Budizm hangi bölgelere/nerelere yayılmıştır?
+
+answer: Hint Yarımadası'nda, daha sonra Asya ve Dünya'nın geri kalanında yayılmaya başladı.
+
+id: 010
+
+|
+
+context: Candan Erçetin (d. 10 Şubat 1963), Türk şarkıcı-şarkı yazarı ve öğretmen. Yirmi yılı aşkın şarkıcılık kariyeri boyunca, insan hayatını konu alan şarkılar hazırlayıp seslendirmesiyle tanındı. Albümlerini pek fazla tanıtım yapmadan çıkarmasına rağmen yine de çalışmalarının çok satarak dinleyici tarafından benimsenmesiyle birçok kez takdir edildi. Müziğini ön planda tutarak basında özel hayatıyla yer almaması sayesinde övüldü. Bazen farklı bulunan video klipleriyle ilgi çekti. Ailesinin Balkan kökenli olmasının bir sonucu olarak şarkılarında sık sık Balkan müziği enstrümanlarına yer verdi, Türkçenin yanı sıra Fransızca ve Yunanca şarkılar da söyledi.
+
+Lüleburgaz'da Arnavut ve Makedon kökenli bir ailenin kızı olarak dünyaya gelen Candan Erçetin, küçük yaşlarındayken Galatasaray Lisesi'ni kazanarak İstanbul'a yerleşti. Sonraki yıllarda ses eğitimi aldı. İstanbul Üniversitesi'nde Klasik Arkeoloji bölümünü bitirdi. Okuldaki son yılında "Halley" şarkısıyla Türkiye'yi 1986 Eurovision Şarkı Yarışması'nda temsil eden Klips ve Onlar grubunun bir üyesi olarak yarışmaya dahil oldu. Ancak bir süre müzikal kariyerine başlamak istemedi ve arkeoloji eğitimine devam etti. 1995'te Hazırım albümüyle dikkat çeken bir çıkış yaptı, 1997'de hit olan "Yalan" şarkısını içeren Çapkın albümünü yayımladı. 2000'de yılın en çok satanı olan Elbette'nin ve 2002'de "Gamsız Hayat" şarkısı eşliğinde yayımlanan Neden'in ardından Melek (2004), Kırık Kalpler Durağında (2009) ve Milyonlarca Kuştuk... (2013) albümlerini satışa sundu. Bu albümlerin dışında hazırladığı Chante Hier Pour Aujourd'hui (2003) ve Aranjman 2011 (2011) albümlerinde Fransızca; Aman Doktor (2005) albümünde ise Yunanca şarkılara yer verdi.
+|
+
+topic: Candan Erçetin
+
+|
+question: Candan Erçetin ne zaman doğmuştur?(Zor)
+
+answer: 10 Şubat 1963
+
+id: 011
+|
+question: Candan Erçetin hangi özelliği ile övüldü/övgü topladı?
+
+answer: Müziğini ön planda tutarak basında özel hayatıyla yer almaması sayesinde övüldü.
+
+id: 012
+|
+question: Candan Erçetin hangi dillerde şarkı söylemiştir/söyledi?
+
+answer: Türkçe'nin yanı sıra Fransızca ve Yunanca
+
+id: 013
+|
+question: Candan Erçetin nerede doğmuştur/doğdu?
+
+answer: Lüleburgaz'da
+
+id: 014
+|
+question: Candan Erçetin hangi bölüm mezunudur/hangi bölümü okumuştur?
+
+answer: Klasik Arkeoloji
+
+id: 015
+|
+question: Candan Erçetin hangi yıllarda albüm çıkarmıştır ? (Zor)
+
+answer: 1995, 1997, 2000, 2002, 2004, 2009, 2003, 2013, 2011, 2005
+
+id: 016
+
+|
+
+context: Deoksiribo Nükleik asit veya kısaca DNA, tüm organizmalar ve bazı virüslerin canlılık işlevleri ve biyolojik gelişmeleri için gerekli olan genetik talimatları taşıyan bir nükleik asittir. DNA'nın başlıca rolü bilginin uzun süreli saklanmasıdır. Protein ve RNA gibi hücrenin diğer bileşenlerinin inşası için gerekli olan bilgileri içermesinden dolayı DNA; bir kalıp, şablon veya reçeteye benzetilir. Bu genetik bilgileri içeren DNA parçaları gen olarak adlandırılır. Bazı DNA dizilerinin yapısal işlevleri vardır (kromozomların şeklini belirlemek gibi), diğerleri ise bu genetik bilginin ne şekilde (hangi hücrelerde, hangi şartlarda) kullanılacağının düzenlenmesine yararlar.
+
+Kimyasal olarak DNA, nükleotit olarak adlandırılan basit birimlerden oluşan iki uzun polimerden oluşur. Bu polimerlerin omurgaları, ester bağları ile birbirine bağlanmış şeker ve fosfat gruplarından meydana gelir. Bu iki iplik birbirlerine ters yönde uzanırlar. Her bir şeker grubuna baz olarak adlandırılan dört tip molekülden biri bağlıdır. DNA'nın omurgası boyunca bu bazların oluşturduğu dizi, genetik bilgiyi kodlar. Protein sentezi sırasında bu bilgi, genetik kod aracılığıyla okununca proteinlerin amino asit dizisini belirler. Bu süreç sırasında DNA'daki bilgi, DNA'ya benzer yapıya sahip başka bir nükleik asit olan RNA'ya kopyalanır. Bu işleme transkripsiyon denir.
+|
+
+topic: DNA
+
+|
+question: DNA nedir?
+
+answer: tüm organizmalar ve bazı virüslerin canlılık işlevleri ve biyolojik gelişmeleri için gerekli olan genetik talimatları taşıyan bir nükleik asittir.
+
+id: 017
+|
+question: DNA hangi bilgileri içerir?
+
+answer:  Protein ve RNA gibi hücrenin diğer bileşenlerinin inşası için gerekli olan bilgileri.
+
+id: 018
+|
+question: DNA nelerden oluşur?
+
+answer: nükleotit olarak adlandırılan basit birimlerden oluşan iki uzun polimerden oluşur.
+
+id: 019
+|
+question: RNA nedir? (Zor)
+
+answer: DNA'ya benzer yapıya sahip başka bir nükleik asit
+
+id: 020
+
+|
+
+context: Çanakkale Savaşı veya Çanakkale Muharebeleri, I. Dünya Savaşı sırasında 1915–1916 yılları arasında Gelibolu Yarımadası'nda Osmanlı İmparatorluğu ile İtilaf Devletleri arasında yapılan deniz ve kara muharebeleridir.[9] İtilaf Devletleri; Osmanlı İmparatorluğu'nun başkenti İstanbul'u alarak İstanbul ve Çanakkale boğazlarının kontrolünü ele geçirmek, Rusya'yla güvenli bir erzak tedarik ve askeri ikmal yolu açmak, başkent İstanbul′u zapt etmek suretiyle Almanya′nın müttefiklerinden birini savaş dışı bırakarak İttifak Devletlerini zayıflatmak amaçları ile ilk hedef olarak Çanakkale Boğazı'nı seçmişlerdir. Ancak saldırıları başarısız olmuş ve geri çekilmek zorunda kalmışlardır. Kara ve deniz savaşı sonucunda iki taraf da çok ağır kayıplar vermiştir.
+
+Osmanlı İmparatorluğu, Almanya'nın Rusya'ya savaş ilan ettiğı 1 Ağustos 1914'ün hemen ertesi günü, Almanya ile bir ittifak antlaşması imzalamıştır. Bu antlaşma, imparatorluğun eninde sonunda Almanya'nın ana gücünü oluşturduğu İttifak Devletleri safında fiilen savaşa gireceği anlamına gelmektedir. Enver Paşa, fiilen savaşa girmeyi, seferberliğin tamamlanmamış olması ve Çanakkale Boğazı savunmasının tamamlanmaması gibi gerekçelerle ertelemeye çalışmıştır. Ancak Almanya, bir an önce savaşa fiilen girilmesi için baskılarını sürdürmüştür. Bu baskılar, Akdeniz'de Britanya donanması önünden çekilen Goeben ve Breslau savaş gemilerinin İstanbul'a gelmesiyle bir oldubittiye getirilmişti. Daha sonra Osmanlı Donanması'na bağlı bir grup gemiyle Karadeniz'e açılan bu gemiler 27 Ekim 1914 tarihinde Rus limanlarını bombalayınca Rusya, Osmanlı İmparatorluğu'na savaş ilan etmiştir.
+
+Birleşik Krallık Savaş Konseyi sektereri Albay Hankey Winston Churchill 'in de desteğiyle, 1914 yılı Eylül ayında Çanakkale Boğazı'nın donanmayla geçilerek İstanbul'un işgalini öngören bir planı savaş konseyine sunmuştur.[7]. Plan, çeşitli evrelerden geçerek uygulamaya kondu ve Birleşik Krallık ve Fransa gemilerinden oluşan bir donanmanın Boğaz'a geniş çaplı saldırıları 1915 Şubat ayında başlatıldı. Özellikle 19 Şubat 1915 ve 25 Şubat 1915 bombardımanları sonucu Müstahkem Mevki Komutanı Cevat Çobanlı giriş tabyalarının geri hatta çekilmesi emrini uygulatmıştır. En güçlü saldırı ise 18 Mart 1915 günü uygulamaya konuldu. Ancak Birleşik Donanma ağır kayıplara uğradı ve deniz harekatından vazgeçmek zorunda kalındı.
+
+Deniz harekatıyla İstanbul'a ulaşılamayacağı anlaşılınca bir kara harekatıyla Çanakkale Boğazı'ndaki Osmanlı sahil topçu bataryalarını ele geçirmek planı gündeme getirilmiştir. Bu plan çerçevesinde hazırlanan Britanya ve Fransa kuvvetleri 25 Nisan 1915 şafağında Gelibolu Yarımadası'nın güneyinde beş noktada karaya çıkarılmıştır. Britanya ve Fransa çıkarma kuvvetleri her ne kadar Seddülbahir ve Arıburnu sahillerinde köprübaşları oluşturmayı başardılarsa da Osmanlı kuvvetlerinin inatçı savunmaları ve zaman zaman giriştikleri karşı taarruzlar sonucunda Gelibolu Yarımadası'nı işgalde başarılı olamadılar. Bunun üzerine sahildeki kuvvetler takviye edilmek için Arıburnu'nun kuzeyinde Suvla Koyu'na 6 Ağustos 1915 tarihinde yeni kuvvetlerle bir üçüncü çıkarma yapılmıştır. Ancak 9 Ağustos'ta Kurmay Albay Mustafa Kemal'in Birinci Anafartalar Muharebesi olarak bilinen karşı taarruzunda İngiliz Komutanlığı ihtiyat tümenini ateş hattına sürerek sahilde tutunmayı ancak başarabilmiştir. Mustafa Kemal ertesi gün Kocaçimentepe – Conk Bayırı hattında yeni bir karşı taarruz gerçekleştirmişti, bu hattaki Anzak birliklerini de geri atmıştır. Britanya ve Anzak kuvvetlerinin İkinci Anafartalar Muharebesi olarak bilinen genel taarruzları ise Osmanlı savunmasını aşamamıştır. Tüm bu gelişmelerin sonrasında İngiliz, Anzak ve Fransız kuvvetleri Gelibolu Yarımadasını 1915 yılı Aralık ayı içinde tahliye etmiştir.
+|
+
+topic: Çanakkale Savaşı
+
+|
+question: Çanakkale savaşı hangi taraflar arasında yapılmştır?
+
+answer:  Osmanlı İmparatorluğu ile İtilaf Devletleri arasında.
+
+id: 021
+|
+question: İtilat Devletleri hedef olarak neden Çanakkale boğazını seçmişlerdir?
+
+answer: Osmanlı İmparatorluğu'nun başkenti İstanbul'u alarak İstanbul ve Çanakkale boğazlarının kontrolünü ele geçirmek, Rusya'yla güvenli bir erzak tedarik ve askeri ikmal yolu açmak, başkent İstanbul′u zapt etmek suretiyle Almanya′nın müttefiklerinden birini savaş dışı bırakarak İttifak Devletlerini zayıflatmak amaçları ile.
+
+id: 022
+|
+question: Osmanlı İmparatorluğu hangi tarihte/ne zaman Almanya ile ittifak anlaşması imzalamıştır? (Zor)
+
+answer: Almanya'nın Rusya'ya savaş ilan ettiğı 1 Ağustos 1914'ün hemen ertesi günü / 2 Ağustos 1914
+
+id: 023
+|
+question: Şavaşa girmeyi ertelemeye çalışan kimdir?
+
+answer: Enver Paşa
+
+id: 024
+|
+question: Rusya Osmanlı İmparatorluğu'na hangi olaydan sonra savaş ilan etmiştir?
+
+answer: Osmanlı Donanması'na bağlı bir grup gemiyle Karadeniz'e açılan bu gemiler 27 Ekim 1914 tarihinde Rus limanlarını bombalayınca.
+
+id: 025
+|
+question: Birleşik Krallık ve Fransa Çanakkale boğazına saldırmaya hangi tarihte başladı?
+
+answer: 1915 Şubat ayında
+
+id: 026
+|
+question: Çanakkale Savaşında hangi taraf başarısız olmuştur ? (Zor)
+
+answer: İtilaf Devletleri
+
+id: 027
+
+|
+
+context: Eyfel Kulesi (Fransızca: La tour Eiffel [la tuʀ ɛˈfɛl]), Paris'teki demir kule. Kule, aynı zamanda tüm dünyada Fransa'nın sembolü halini almıştır. İsmini, inşa ettiren firma olan Gustave Eiffel'den alır. En büyük turizm cazibelerinden biri olan Eyfel Kulesi, yılda 6 milyon turist çeker. 2002 yılında toplam ziyaretçi sayısı 200 milyona ulaşmıştır.
+
+Eyfel Kulesi 1887 ile 1889 yılları arasında Gustave Eiffel'in firması tarafından, Fransız Devrimi'nin 100. yıl kutlamaları çerçevesinde düzenlenen Expo 1889 Paris fuarının giriş kapısı olarak inşa edilmiştir. Aslında kulenin mimarı Gustave Eiffel değil, İsviçreli Maurice Koechlin 'in siparişi üzerine tasarlayan Stephen Sauvestre'dir. Meslektaşı Emile Nouguier ile beraber ilk tasarımları yapmıştır. Kulenin, 7.739.401 Frank 31 Sent tutan inşaat masrafları, Gustave Eiffel'in tahminlerinin 1 milyon frank üstündedir. 1889 yılındaki açılış tarihinden önceki 5 ayda 1,9 milyon kişi ziyaret edince, yıl sonuna kadar toplam masrafın 3/4'ü çıkartılmıştır.
+
+3.000 işçi 26 ay boyunca 18.038 adet demir parçayı 2,5 milyon perçinle bir araya getirdi. Hiç ölüm vakası yaşanmamış olması, o günün şartlarında şaşırtıcı bir durumdur.
+
+Ancak kule, onu bir utanç lekesi olarak gören Paris halkının tepkisini de çekmiştir. Bazı sanatçılar devasa bir sokak lambasına benzetirken, bir fabrika bacası gibi Paris'in görsel itibarını zedeleyeceğini ileri sürmüşlerdir. Böylelikle devrin sanatçı ve edebiyatçı çevresinde bir kampanya başlatılmış, bu kampanya süresince ünlü sanatçıların imzaladığı bildiriler dağıtılmıştır. Bugün ise Eyfel Kulesi, Dünya'nın en güzel mimari yapılarından biri olarak kabul edilir. Parisliler onu Demir Bayan olarak adlandırırlar. İlk başlarda Eiffel, Kule'ye sadece 20 yıl için müsaade almıştı. Dolayısıyla, 1909 yılında kulenin sökülmesi gerekiyordu. Ancak kule, iletişim için çok uygun yüksekliğe ulaştığından ve yeni yüzyılda Atlantik ötesi haberleşmeye imkân tanıdığından, kalmasına izin verildi.
+
+|
+
+topic: Eyfel Kulesi
+
+|
+
+question: Eyfel kulesi hangi maddeden yapılmıştır ? (Zor)
+
+answer: Demir
+
+id: 028
+|
+question: Kule ismini nereden almıştır ?
+
+answer: inşa ettiren firma olan Gustave Eiffel'den alır.
+
+id: 029
+|
+question: Kulenin mimarı kimdir ? (Zor)
+
+answer:  Stephen Sauvestre'dir
+
+id: 030
+|
+question: Kulenin yıkılmamasına/kalmasına neden izin verildi ?
+
+answer:  iletişim için çok uygun yüksekliğe ulaştığından ve yeni yüzyılda Atlantik ötesi haberleşmeye imkân tanıdığından.
+
+id: 031
+
+|
+
+context: Fil, hortumlular takımının filgiller (Elephantidae) familyasını oluşturan memeli bir hayvandır. Geleneksel olarak Asya fili (Elephas maximus) ve Afrika fili (Loxodonta africana) olmak üzere 
+
+iki türü tanınır; ancak bazı kanıtlara dayanarak Afrika savan fili (L. africana) ile Afrika orman filinin (L. cyclotis) de iki ayrı tür olduğu öne sürülür. 
+
+Filler, Sahra altı Afrika ile Güney ve Güneydoğu Asya'da bulunur. İçinde mamutlar ve mastodonlar gibi soyu tükenmiş türleri de barındıran hortumlular takımından günümüzde soyunu sürdüren bir tek filler kalmıştır. 
+
+Karada yaşayan en büyük hayvan olan Afrika filinin erkeği 4 m boya ve 7.000 kg ağırlığa ulaşabilir. Fillerin dikkat çekici ve ayırt edici özellikleri arasında, nesneleri yakalamak gibi çeşitli amaçlar için 
+
+kullanılan uzun hortumları başta gelir. Uzun ve sivri olan kesici dişlerini nesneleri taşımak, yeri kazmak için kullanırlar. Fildişinin kaynağı olan bu kesici dişler aynı zamanda dövüşürken silah olarak da kullanılır. 
+
+Filin büyük ve geniş kulakları vücut ısısını kontrol etmeye yarar. Afrika fillerinin kulakları daha büyük olur ve sırtları içbükeydir. Asya fillerinin ise kulakları daha küçük olur ve sırtları dışbükey ya da düzdür.
+|
+
+topic: Fil
+
+|
+question: Fil türleri nelerdir ? (Zor)
+
+answer: Geleneksel olarak Asya fili (Elephas maximus) ve Afrika fili (Loxodonta africana) olmak üzere iki türü tanınır; ancak bazı kanıtlara dayanarak Afrika savan fili (L. africana) ile Afrika orman filinin (L. cyclotis) de iki ayrı tür olduğu öne sürülür.
+
+id: 032
+|
+question: Filler hangi bölgelerde bulunur?
+
+answer: Sahra altı Afrika ile Güney ve Güneydoğu Asya'da bulunur.
+
+id: 033
+|
+question: Fillerin en dikkat çekici özelliği nedir? 
+
+answer: nesneleri yakalamak gibi çeşitli amaçlar için kullanılan uzun hortumları.
+
+id: 034
+|
+question: Fillerin kulakları ne işe yarar?
+
+answer: vücut ısısını kontrol etmeye yarar.
+
+id: 035
+|
+question: Filler hangi takımdandır ?
+
+answer: hortumlular
+
+id: 036
+
+|
+
+
+
+context : Penguen, Penguengiller (Spheniscidae) familyasını oluşturan, uçamayan, dimdik durabilen, perde ayaklı deniz kuşlarıdır. Güney Kutbu, Yeni Zelanda, Avustralya, Güney Amerika, Güney Afrika 
+
+ve Galapagos Adaları'nın kıyılarında yaşarlar, ancak Kuzey Kutbu'da dahil olmak üzere Kuzey yarımkürede penguenler bulunmaz. 
+
+Büyüklük bakımından 30 – 105 cm. arasında değişik 17 kadar türü bilinmektedir. En irileri olan İmparator penguen 45 kg. ağırlığa ulaşır. 
+
+Sıcak bölgelere doğru gidildikçe boyları küçülür. Denizlerdeki kabuklular, balık ve mürekkep balıkları ile beslenirler. Tüyleri kuş tüylerine hiç benzemez. Sırtları siyah veya gri, karın kısımları beyaz ince ve pulsu tüylerle örtülüdür. 
+
+Türler birbirinden, başlarındaki renkli tüyleriyle ayrılır. Kuyrukları kısa ve ayakları vücutlarının gerisinde olduğundan rahatlıkla dimdik ayakta durabilirler. Denizde, saatte 10 deniz mili hızla yüzebilirler. Hatta gerektiğinde bu hızlarını iki katına çıkarabilirler.
+|
+
+topic: Penguen
+
+|
+question: Penguenler nerede yaşarlar?
+
+answer: Güney Kutbu, Yeni Zelanda, Avustralya, Güney Amerika, Güney Afrika ve Galapagos Adaları'nın kıyılarında
+
+id: 037
+|
+question: Penguenler nerede bulunmaz?
+
+answer: Kuzey Kutbu'da dahil olmak üzere Kuzey yarımkürede
+
+id: 038
+
+|
+question: Penguenlerin kaç farklı/ne kadar değişik/farklı türü bilinmektedir?
+
+answer: 17 kadar
+
+id: 039
+|
+question: Penguenler neler ile beslenir?
+
+answer: Denizlerdeki kabuklular, balık ve mürekkep balıkları ile
+
+id: 040
+|
+question: Tüyleri kuş tüylerine benzer mi?
+
+answer: Hiç benzemez
+
+id: 041
+
+|
+
+context: Keman (veya viyolon), viyola ve viyolonselin de bulunduğu violin ailesinin en yüksek tondan çalan, en küçük üyesidir. Dört teli vardır. Akord sesleri pesten tize sol, re, la ve mi'dir.
+
+Keman yayına arşe denir. Arşede yapay ya da gerçek at kılının yanı sıra ham misina olarak adlandırılan bir madde de kullanılabilir. Ayrıca yayını düzgünleştirmek ve sesi güzelleştirmek amacıyla arşeye reçine adı verilen madde sürülür. Reçine bala benzeyen sarı renkli katı bir maddedir.
+
+Almanca Geige, Fransızca violon, İngilizce violin, İtalyanca violino'dur. Uzunluğu 60 cm'dir. Yayla çalınan telli bir çalgıdır. Notası, ikinci çizgi Sol açkısı ile yazılır. Orkestralarda, genel olarak (Solo, I, II) üç partisi bulunur. Solo ve eşlik görevi verilir (özellikle bir solo çalgıdır). Hiçbir çalgıda olmayan ses rengiyle, çok zengin bir anlatım gücü vardır.
+
+Keman çalmayı öğrenme süresi kişilerde enstrümanın kendi mekanizması, müzik kulağın olup olmaması ve çalma tekniklerinden farklılarından dolayı değişiklik gösterir. Keman tutuşu, arşe çekişi notaların öğrenilmesi sonrasında basit notalı şarkılar çalınmaya başlanır.
+|
+
+topic: Keman
+
+|
+question: Kemanın kaç teli vardır?
+
+answer: Dört teli
+
+id: 042
+|
+question: Akord sesleri pesten tize nedir?
+
+answer: sol, re, la ve mi
+
+id: 043
+|
+question: Keman yayına ne denir?
+
+answer: arşe
+
+id: 044
+|
+question: Keman yayına ne sürülür?
+
+answer: Reçine adı verilen madde
+
+id: 045
+|
+question: Keman notası nasıl yazılır?
+
+answer: ikinci çizgi Sol açkısı ile
+
+id: 046
+
+|
+question: Orkestralarda genel olarak kaç keman partisi bulunur?
+
+answer: (Solo, I, II) üç partisi
+
+id: 047
+
+|
+
+context: Göl, karalar üzerindeki çanakları doldurmuş tatlı veya tuzlu su kütlesidir. Göller, kapalı havzaları dolduran geniş, durgun su kütlesi olarak da tanımlanır. Gölsel ortamlar, oldukça belirgin çökel türü ve çökel yapılarına sahiptirler.
+
+Göller, yer altı ve yer üstü sularıyla beslenir ve acı, tatlı, sodalı ve tuzlu olabilir. Bu farklılığın nedenleri, iklim koşulları, beslenme kaynakları, gölün bulunduğu arazinin yapısı, gölün büyüklüğü, derinliği ve gideğeninin (göl ayağı) olup olmamasıdır.
+
+Beslenme kaynağı güçlü olan göller fazla sularını bir gideğen yardımıyla denizlere boşaltır. Sularını dışarıya bir gideğen yardımıyla boşaltan göllerin suyu tatlı, sularını dışarıya boşaltamayan göllerin suyu ise acı veya tuzludur. Göller ve nehirler tatlı su ekosistemine girer.
+|
+
+topic: Göl
+
+|
+question: Göller nasıl tanımlanır?
+
+answer: kapalı havzaları dolduran geniş, durgun su kütlesi olarak da
+
+id: 048
+|
+question: Göller ne ile beslenir?
+
+answer: yer altı ve yer üstü sularıyla
+
+id: 049
+|
+question: Hangi tip göller vardır?
+
+answer: acı, tatlı, sodalı ve tuzlu
+
+id: 050
+|
+question: Hangi göllerin suyu acı veya tuzludur?
+
+answer: sularını dışarıya boşaltamayan göllerin suyu
+
+id: 051
+|
+question: Neler tatlı su ekosistemine girer?
+
+answer: Göller ve nehirler
+
+id: 052
+|
+
+context: Ay, Dünya'nın tek doğal uydusudur. Güneş Sistemi içinde beşinci büyük doğal uydudur. Dünya ile Ay arasında ortalama merkezden merkeze uzaklık 384.403 km, yani 
+
+Dünya'nın çapının yaklaşık otuz katı kadardır. Ay'ın çapı 3.474 km'dir,[1] bu da Dünya çapının dörtte birinden biraz fazladır. Dolayısıyla Ay'ın hacmi Dünya'nın hacminin %2'sidir. Kütlesi Dünya kütlesinden 81,3 kat daha düşüktür. 
+
+Yüzeyinde kütleçekim etkisi yer çekiminin yaklaşık %17'sidir. Ay, Dünya'nın yörüngesinde bir turunu 27 gün 7 saatte tamamlar. Dünya, Ay ve Güneş geometrisinde görülen periyodik değişimler sonucunda her 29,5 günde tekrar eden Ay'ın evreleri oluşur.
+
+Ay, insanların üzerine iniş yaparak yürüdükleri tek gökcismidir. Yerçekiminden kurtulup uzaya çıkan ve Ay'ın yakınından geçen ilk yapay nesne Sovyetler Birliği'nin 
+
+Luna 1 uydusudur. Ay yüzeyine çarpan ilk insan yapısı nesne Luna 2 uydusudur. Normalde görünmeyen Ay'ın öteki yüzünün ilk fotoğraflarını ise Luna 3 uydusu çekmiştir. Bu üç uydu da 1959 yılında uzaya fırlatılmıştır. Ay yüzeyine ilk yumuşak iniş yapabilen uzay aracı Luna 9, ve Ay yörüngesine giren ilk insansız uzay aracı da Luna 10'dur. Bu iki uydu da 1966'da uzaya fırlatılmıştır.[1] ABD'nin Apollo programı 1969 ve 1972 yılları arasında altı başarılı inişle, günümüze kadar insanlı görevleri başaran tek uzay programıdır. Ay'ın doğrudan insanlar tarafından incelenmesine Apollo programının bitişiyle son verilmiştir.
+|
+
+topic: Ay
+
+|
+question: Dünya'nın tek doğal uydusu nedir?
+
+answer: Ay
+
+id: 053
+|
+question: Ay Güneş Sistemi içinde kaçıncı büyük doğal uydudur?
+
+answer:  beşinci
+
+id: 054
+|
+question: Dünya ile Ay arasında ortalama merkezden merkeze uzaklık Dünya'nın çapının yaklaşık kaç katı kadardır?
+
+answer: otuz katı
+
+id: 055
+|
+question: Ay'ın hacmi Dünya'nın hacminin yüzde kaçıdır?
+
+answer: %2'sidir
+
+id: 056
+|
+question: Ay'ın kütlesi Dünya kütlesinden kaç kat daha düşüktür?
+
+answer: 81,3 kat
+
+id: 057
+|
+question: Ay, Dünya'nın yörüngesinde bir turunu kaç günde/ne kadar sürede tamamlar?
+
+answer: 27 gün 7 saatte
+
+id: 058
+|
+question: Ay'ın evreleri kaç günde bir tekrar eder?
+
+answer: 29,5 gün
+
+id: 059
+|
+question: Ay yüzeyine çarpan ilk insan yapısı uydunun adı nedir?
+
+answer: Luna 2 uydusudur
+
+id: 060
+|
+
+context: Michael Andreas Helmuth Ende (d. 12 Kasım 1929, Garmisch-Partenkirchen - 28 Ağustos 1995, Filderstadt), Alman fantastik çocuk kitapları yazarı. 
+
+Bitmeyecek Öykü ile dünya üzerindeki milyonlarca çocuğu büyüleyen Michael Ende'nin yazar olarak ilk büyük başarısı, çocuklar için yazdığı Cim Düğme ve Lokomotifçi 
+
+Lukas'tır (Jim Knopf und Lukas der Lokomotivführer). Bu kitabın devamı niteliğinde Cim Düğme ve Vahşi On Üçler ve Momo adlı kitapları da bulunmaktadır. 
+
+Çalışmaları 40'tan fazla dile çevrilmiş, 20 milyondan fazla satmış; sinema, sahne oyunları, opera ve sesli kitaba uyarlanmıştır.
+|
+
+topic: Michael Ende
+
+|
+question: Michael Andreas Helmuth Ende kimdir?
+
+answer:  Alman fantastik çocuk kitapları yazarı
+
+id: 061
+|
+question: Michael Ende'nin ilk başarılı kitabının adı nedir?
+
+answer: Cim Düğme ve Lokomotifçi Lukas'tır
+
+id: 062
+|
+question: Michael Ende'nin çalışmaları kaç dile çevrilmiştir?
+
+answer: 40'tan fazla dile çevrilmiş
+
+id: 063
+|
+
+context: Facebook, insanların başka insanlarla iletişim kurmasını ve bilgi alışverişi yapmasını amaçlayan bir sosyal ağ. 
+
+4 Şubat 2004 tarihinde Harvard Üniversitesi 2006 devresi öğrencisi Mark Zuckerberg tarafından kurulan Facebook, öncelikle Harvard öğrencileri için kurulmuştu. 
+
+Daha sonra Boston civarındaki okulları da içine alan Facebook, iki ay içerisinde Ivy Ligi okullarının tamamını kapsadı. İlk sene içerisinde de; Amerika Birleşik Devletleri'ndeki tüm okullar Facebook'ta mevcuttu. 
+
+Üyeler önceleri sadece söz konusu okulun e-posta adresiyle (.edu, .ac.uk, vb.) üye olabiliyordu. Daha sonrasında da ağ içine liseler ve bazı büyük şirketler de katıldı. 11 Eylül 2006 tarihinde ise Facebook tüm e-posta adreslerine, bazı yaş sınırlandırmalarıyla açıldı. 
+
+Kullanıcılar diledikleri ağlara; liseleri, çalışma yerleri ya da yaşadığı yerler itibarıyla katılım gösterebilmektedirler. Ayrıca Facebook, dünyanın en fazla ziyaret edilen sitelerinden biridir.
+|
+
+topic: Facebook
+
+|
+
+question: Facebook nedir?
+
+answer: insanların başka insanlarla iletişim kurmasını ve bilgi alışverişi yapmasını amaçlayan bir sosyal ağ
+
+id: 064
+|
+question: Facebook ne zaman kurulmuştur?
+
+answer: 4 Şubat 2004 tarihinde
+
+id: 065
+|
+question: Facebook kim tarafından kurulmuştur?
+
+answer:  Harvard Üniversitesi 2006 devresi öğrencisi Mark Zuckerberg tarafından
+
+id: 066
+|
+question: Facebook öncelikle hangi üniversitenin öğrencileri için kurulmuştur?
+
+answer:  öncelikle Harvard öğrencileri için
+
+id: 067
+
+|
+question: Facebook hangi tarihte tüm e-posta adreslerine açıldı?
+
+answer:  11 Eylül 2006 tarihinde
+
+id: 068
+
+|
+
+context: Boğaziçi Üniversitesi ya da kısaca BOUN, İstanbul, Türkiye'deki bir devlet üniversitesi. 16 Eylül 1863'te Cyrus Hamlin ve Christopher Robert tarafından 
+
+Robert Koleji adıyla kuruldu. Yüz yılı aşkın bir süre bu adla bugünkü Güney Kampüsü'nde eğitim verdikten sonra, üzerinde bağımsız bir üniversite kurulması için 
+
+10 Eylül 1971'de Türkiye Cumhuriyeti'ne devredilerek Boğaziçi Üniversitesi adını aldı. Günümüzde toplam 1.672.106 m2'lik alana sahip olan ve altı yerleşkesi bulunan Boğaziçi Üniversitesi, İngilizce eğitim verir.
+
+Boğaziçi Üniversitesi, Yükseköğretim Kurumları Sınavı'nda en yüksek puanları alan öğrenciler tarafından tercih edilen üniversitelerden biri olmuştur. Örneğin; 2006, 2007 ve 2009 yıllarında, 
+
+ÖSS'de tüm puan türlerinde en fazla tercih edilen üniversiteler kategorisinde 1. olmuştur.
+|
+
+topic: Boğaziçi üniversitesi
+
+|
+question: Boğaziçi Üniversitesi nerededir/nerede konumlanmıştır?
+
+answer: İstanbul, Türkiye'de
+
+id: 069
+|
+question: Boğaziçi Üniversitesi hangi tarihte kurulmuştur?
+
+answer: 16 Eylül 1863'te
+
+id: 070
+|
+question: Boğaziçi üniversitesi kimler tarafından kurulmuştur?
+
+answer: Cyrus Hamlin ve Christopher Robert tarafından 
+
+id: 071
+|
+question: Boğaziçi Üniversitesinin kuruluş adı neydi?
+
+answer: Robert Koleji
+
+id: 072
+|
+question: Boğaziçi Üniversitesi hangi tarihte Boğaziçi Üniversitesi adını aldı?
+
+answer: 10 Eylül 1971'de
+
+id: 073
+
+|
+question: Boğaziçi Üniversitesi hangi dilde eğitim verir?
+
+answer: İngilizce eğitim verir
+
+id: 074
+
+|
+
+context: Heavy metal (bilinen kısa adıyla metal) 1960'lı yıllarda İngiltere'nin Midlands veya 
+
+Orta İngiltere Bölgesi ve ABD'de gelişmeye başlayan rock müzik türüdür. Blues ve Rock'n Roll türlerini 
+
+temel alan heavy metal; kalın ve ağır sesi, distortion, solo gitar ve yüksek ses gibi kendine özgü elementlere sahiptir.
+
+Led Zeppelin, Black Sabbath ve Deep Purple gibi ilk heavy metal grupları ağır eleştirilere maruz kalsa da geniş kitlelere hitap edebilmiştir ve 
+
+bu eleştiriler heavy metal tarihi boyunca neredeyse her grubu etkilemiştir. 1970'lerin ortalarında Judas Priest, Heavy metali Blues türünün etkisinden kurtararak bu türün gelişimini tetiklemiş, 
+
+bir başka grup olan Motörhead ise türe sertlik ve hız katarak Heavy metalin gelişmesine katkıda bulunmuştur. Iron Maiden gibi New Wave of British Heavy Metal 
+
+akımından etkilenen gruplar da bu gelişmeyi devam ettirmiş ve 1970'li yılların sonunda Heavy metal dünya çapında hayran kitlesine ulaşarak headbang, metalhead gibi alt kültürleri oluşturmuştur.
+|
+
+topic: Heavy Metal
+
+|
+question: Heavy metal ne zaman gelişmeye başlamıştır?
+
+answer: 1960'lı yıllarda
+
+id: 075
+|
+question: Heavy metal nerede gelişmeye başlamıştır?
+
+answer: İngiltere'nin Midlands veya Orta İngiltere Bölgesi ve ABD'de
+
+id: 076
+|
+question: Heavy metal ne gibi kendine özgü elementlere sahiptir?
+
+answer: kalın ve ağır sesi, distortion, solo gitar ve yüksek ses
+
+id: 077
+|
+question: Hangi heavy metal grupları ilk başlarda eleştirilere maruz kalmıştır?
+
+answer: Led Zeppelin, Black Sabbath ve Deep Purple
+
+id: 078
+|
+question: Judas Priest heavy metalin gelişimini nasıl tetiklemiştir?
+
+answer: Heavy metali Blues türünün etkisinden kurtararak bu türün gelişimini tetiklemiş.
+
+id: 079
+
+|
+question: Sertlik ve hız katarak Heavy metalin gelişmesini hangi grup devam ettirmiştir?
+
+answer: Motörhead
+
+id: 080
+
+|
+
+question: Heavy metal 1970'li yılların sonunda hangi alt kültürleri oluşturmuştur?
+
+answer: Headbang, metalhead
+
+id: 081
+
+|
+
+context: ESP gitarları 1975 yılında Hisatake Shibuya adlı Japon müzisyen ve girişimcinin Tokyo 
+
+kentinde bir dükkân açması ile üretimine başlamıştır. ESP isminin açılımı 'Electric Sound Products' (elektrikli ses ürünleri) 
+
+olan İngilizce bir cümleden gelmektedir. 1976 yılından itibaren Japonya'da ünlenmeye başlayan firma ana olarak elektrik gitar yedek parçaları 
+
+üretmesine rağmen yalnızca bir sene içinde ülke çapında hızla artan popüleritesine güvenerek, yine 1976 yılında ESP ve Navigator adında 
+
+2 adet model ile elektrik gitar üretmeye başlamıştır (yalnızca Japonya için). ESP gitar ve yedek parçalarının uluslararası müzik marketinde adını duyurması, 
+
+1983 yılında Amerika Birleşik Devletleri'nin New York kentinde bir dükkân açması ile olmuştur. 1984 - 1985 yılları arasında toplam olarak 2003 adet profesyonel 
+
+kayıt ve performans amaçlı gitar üretilmiştir; bu gitarların tamamı el yapımıdır ve şu andaki değerleri oldukça yüksektir. Bahsi geçen bu bir sene 
+
+süresince Helmet grubundan Page Hamilton, Living Color grubundan Vernon Reid, KISS grubundan Bruce Kulick ve Rolling Stones grubundan Ron Wood özel olarak 
+
+ESP gitarı tasarlanan ünlü müzisyenlerden yalnızca birkaçıdır. ESP gitarlarının tüm dünyada tanınması ise tamamen bir tesadüften ibarettir. 
+
+1986 yılında ünlü gitarist George Lynch Tokyo turnesi sırasında bir adet yedek gitar sapına ihtiyacı olmuştur. Lynch bizzat gittiği lokal ESP dükkânında 
+
+tesadüfen firmanın gitaristlere istekleri doğrultusunda kişisel gitarlar yaptığını öğrenir. Sonuç olarak George Lynch'ın istekleri doğrultusunda Kamikaze adında bir model yapılır. 
+
+Tüm turnelerinde bu gitarı kullanmaya başlayan George Lynch sayesinde ESP gitarlarının adı 1986-1987 arasında tüm dünyada duyulur ve firma seri üretimine başlar. 
+
+İlk üretilen modeller M1, Horizon elektrik gitarlar ve Surveyor adlı bas gitardır.
+
+|
+
+topic: ESP Gitarları
+
+|
+question: ESP gitarları ne zaman üretimine başlamıştır?
+
+answer: 1975 yılında
+
+id: 082
+|
+question: ESP'nin girişimcisi kimdir?
+
+answer: Hisatake Shibuya
+
+id: 083
+|
+question: ESP'nin açılımı nedir?
+
+answer: Electric Sound Products
+
+id: 084
+|
+question: ESP 1976 yılında hangi 2 adet model elektrik gitarı üretmeye başlamıştır?
+
+answer: ESP ve Navigator
+
+id: 085
+|
+question: ESP hangi yılda New York'ta dükkan açmıştır?
+
+answer: 1983 yılında
+
+id: 086
+
+|
+question: 1984 - 1985 yılları arasında toplam kaç tane profesyonel kayıt ve performans amaçlı gitar üretilmiştir?
+
+answer: 2003
+
+id: 087
+
+|
+
+question: Lynch ESP'nin gitaristlere istekleri doğrusunda kişisel gitarlar yaptığını nasıl öğrenir?
+
+answer: Bizzat gittiği lokal ESP dükkânında tesadüfen
+
+id: 088
+
+|
+
+context: Canlı video oyunu, insanların çevrimiçi olarak canlı bir kitleye oyun oynarken kaydettikleri bir etkinliktir. 
+
+İçerik 2010'ların ortalarında Twitch.tv, YouTube, Facebook ve diğer sitelerde popüler hale geldi. 
+
+2014 itibariyle Twitch akışları HBO Go'nun çevrimiçi hizmetinden daha fazla trafiğe sahipti.
+
+Profesyonel yayıncılar ve oyuncular genellikle üst düzey oyun ve eğlenceli yorumları birleştirir ve sponsor ticareti, abonelik iş modeli ve bağışlardan gelir elde eder. 
+
+Video oyunları canlı yayın uygulaması 2010'ların ortalarında Twitch gibi sitelerde popüler hale geldi. 2014'te Twitch akışları HBO'nun çevrimiçi hizmetinden daha fazla trafiğe sahipti ve sonunda 
+
+Justin.tv'nin kapanmasını hızlandırdı. 2015 yılında YouTube, Twitch ile rekabet etmeyi amaçlayan video oyun odaklı bir alt site ve uygulama olan YouTube Gaming'i başlattı.
+
+Diğer video oyunu odaklı akış siteleri Microsoft'a ait Mixer'dir. Smashcast, Azubu ve Hitbox.tv ile Güney Kore merkezli afreecaTV'nin birleşmesinden sonra kuruldu.
+
+Yayıncılar ve görüntüleyenler, birbirleriyle adlarıyla etkileşim kurmalarına, belirli yayıncılara abone olmalarına veya "takip etmelerine" olanak tanıyan bir hizmetle ücretsiz hesaplara kaydolur. 
+
+PlayStation 5 ve Xbox One gibi ev video oyun konsollarında yerleşik akış ve isteğe bağlı kamera entegrasyonu bulunur. Ev bilgisayarları, Twitch sunucularına canlı bir akış yüklemek için Open Broadcaster Software veya XSplit gibi yazılımlar kullanır.
+
+|
+
+topic: Canlı video oyun (video game live streaming)
+
+|
+question: Canlı video oyunu hangi sitelerde popüler hale geldi?
+
+answer: Twitch.tv, YouTube, Facebook ve diğer sitelerde
+
+id: 089
+|
+question: Oyuncular nasıl gelir elde eder?
+
+answer: üst düzey oyun ve eğlenceli yorumları birleştirir ve sponsor ticareti, abonelik iş modeli ve bağışlardan
+
+id: 090
+|
+question: Microsoft'a ait video oyun odaklı akış sitesi nedir?
+
+answer: Mixer
+
+
+id: 091
+|
+question: Smashcast ne zaman kuruldu?
+
+answer: Azubu ve Hitbox.tv ile Güney Kore merkezli afreecaTV'nin birleşmesinden sonra
+
+id: 092
+|
+question: Yayıncılar ve görüntüleyenler birbirleriyle nasıl etkileşim kurar?
+
+answer: belirli yayıncılara abone olmalarına veya "takip etmelerine" olanak tanıyan bir hizmetle
+
+id: 093
+
+|
+question: Yerleşik akış ve isteğe bağlı kamera entegrasyonu hangi ev video oyun konsollarında bulunur?
+
+answer: PlayStation 5 ve Xbox One
+
+id: 094
+
+|
+
+question: Twitch sunucularına canlı bir akış yüklemek için hangi yazılımlar kullanılır?
+
+answer: Open Broadcaster Software veya XSplit gibi yazılımlar
+
+id: 095
+
+|
+
+context: COVID-19 (KOVİD-19), uzun adıyla Koronavirüs hastalığı 2019; insanları etkileyen, şiddetli
+
+akut solunum yolu sendromu koronavirüsü 2'nin (SARS-CoV-2) neden olduğu bulaşıcı bir solunum yolu hastalığıdır.
+
+İlk olarak 2019 yılında Çin'in Hubei eyaletinin Wuhan şehrinde keşfedilmiş hastalık, keşfinden bu yana dünya çapında 
+
+yayılarak COVID-19 pandemisine yol açmıştır. Hastalıkta görülen yaygın semptomlar arasında ateş, öksürük ve nefes darlığı yer almaktadır. 
+
+Kas ağrıları, balgam üretimi ve boğaz ağrısı ise daha az yaygın görülen belirtileri oluştururlar. İshal gibi gastrointestinal belirtiler rapor edilmiştir.
+
+Bazı çalışmalarda virüsün merkezi sinir sistemini de tuttuğu, koku duyusu kaybı ve solunum güçlüğü belirtilerinin bu sebepten ileri geldiği gösterilmiştir.
+
+Vakaların çoğu hafif semptomlara sahip olsa da bazı hastalarda şiddetli zatürre ve çoklu organ yetmezliği meydana gelebilir.
+
+Çin'deki 44.000'den fazla vaka üzerinde yapılan ilk büyük analize göre doğrulanmış vakalar arasında diyabet, yüksek tansiyon, kalp rahatsızlığı ya da solunum sorunları olan hastalar arasında ölümler en az beş kat daha yaygındır.
+
+3 Mart 2020 itibarıyla dünya çapında ölüm oranı %3,4 olup 2 Haziran 2020 tarihi itibarıyla Dünya'da 6.444.750 onaylanmış vaka, 2.948.130 iyileşen varken 
+
+virüs nedeniyle 380.531 hasta hayatını kaybetti.
+
+|
+
+topic: Covid-19
+
+|
+question: COVID-19'un uzun adı nedir?
+
+answer: Koronavirüs hastalığı
+
+id: 096
+|
+question: Hastalık ilk olarak nerede keşfedilmiştir?
+
+answer: Çin'in Hubei eyaletinin Wuhan şehrinde
+
+id: 097
+|
+question: Hastalıkta görülen yaygın semptomlar nelerdir?
+
+answer: ateş, öksürük ve nefes darlığı
+
+id: 098
+|
+question: Hastalarda hangi şiddetli hastalıklar meydana gelebilir?
+
+answer: şiddetli zatürre ve çoklu organ yetmezliği
+
+id: 099
+|
+question: Yapılan ilk büyük analiz kaç vaka üzerinde yapılmıştır?
+
+answer: 44.000'dan fazla
+
+id: 100
+
+|
+question: Yapılan ilk büyük analize göre doğrulanmış vakalar arasında diyabet, yüksek tansiyon, kalp rahatsızlığı ya da solunum sorunları olan hastalar arasında ölümler kaç kat daha yaygındır?
+
+answer: en az beş kat
+
+id: 101
+
+|
+
+question: 2 Haziran 2020 tarihi itibarıyla virüs sebebiyle kaç hasta hayatını kaybetti?
+
+answer: 380.531
+
+id: 102
+
+|
+
+context: Karate Türkiye'ye 1962 yılında güreş antrenörü Halil Yüceses'in Japonya'dan dönüşü sonucu Judo ile birlikte girmiş, bazı karate tekniklerinin çeşitli Judo hocalarınca öğretilmeye başlanması ve Türk Silahlı Kuvvetleri yakın dövüş eğitiminde yer bulması üzerine tanınmıştır. 1969 yılında Judo Federasyonu teknik direktörü Michel Novowitch antrenör kurslarında Judo'nun yanı sıra karate eğitimi de vermiştir.
+
+1980 Karakuşak dergisi liderliğinde Gazeteci-Yazar Kaya Muzaffer Ilıcak, karate sporunun öncüleri olan Hakkı Koşar, Ferhat Özsert, Ahmet Doğaner ve Enver Hancı hocaları bir araya getirerek karatenin, Judo Federasyonu'na bağlanmasını gerçekleştirdi.
+
+1980 Karakuşak 1. Türkiye Karate Şampiyonasını Gazeteci-Yazar Kaya Muzaffer Ilıcak düzenledi. Bu şampiyonada vuruşlu ve vuruşsuz ekollerin bir arada yarışabileceklerini ispatladı. (Büyük usta Taiji Kase bu organizasyonda gösteri yaptı. Bazı maçların hakemliğini yaparak ilk karate hakem seminerini gerçekleştirdi.)
+
+1980'de Gazeteci-Yazar Kaya Muzaffer Ilıcak Bremen'de yapılan Dünya Karate Şampiyonasında Türk Karate takımının sponsorluğunu yaptı. Frankfurt'ta seyahatte olan Judo Federasyonu Başkanı Cihat Uskan'ı da davet ederek sportif karateyi yakından tanımasını sağladı.
+
+1990'da ise Türkiye Karate Federasyonu kurulmuştur.Türkiye'de karatenin ilk yıllarından itibaren JKA ile birlikte Shotokan ekolü (Funakoshi temelli Nakayama stili) genelinde yayılmıştır. Daha sonraki yıllarda farklı stiller de çalışılır olmuştur. Türkiye Karate Federasyonu Dünya Karate Federasyonu'na (WKF) bağlı olarak faaliyetlerini sürdürmektedir.
+
+Türkiye'de karate-do, aynı zamanda üniversitelerde de yaygın olarak çalışılan ve müsabakaları Türkiye Üniversite Sporları Federasyonu tarafından düzenlenen bir spor dalıdır. Fakat karate-do yalnızca sportif bir sistem değildir. Türkiye'de çok büyük çoğunluk sportif karate yapmaktadır. Sportif karate savunma adına hiçbir özellik bulundurmaz ve sadece spor için yapılır.
+
+|
+
+topic: Türkiye'de Karate
+
+|
+question: Karate Türkiye'ye ne zaman girmiştir?
+
+answer: 1962 yılında
+
+id: 103
+|
+question: Karate Türk Silahlı Kuvvetleri'nin hangi eğitiminde yer bulması üzerine tanınmıştır?
+
+answer: yakın dövüş
+
+id: 104
+|
+question:Gazeteci-Yazar Kaya Muzaffer Ilıcak kimleri bir araya getirerek karatenin, Judo Federasyonu'na bağlanmasını gerçekleştirdi?
+
+answer: karate sporunun öncüleri olan Hakkı Koşar, Ferhat Özsert, Ahmet Doğaner ve Enver Hancı hocaları
+
+id: 105
+|
+question: 1980 Karakuşak 1. Türkiye Karate Şampiyonasını kim  düzenledi?
+
+answer: Gazeteci-Yazar Kaya Muzaffer Ilıcak
+
+id: 106
+|
+question: 1980'de Judo Federasyonu Başkanı kimdir?
+
+answer: Cihat Uskan
+
+id: 107
+
+|
+question: Türkiye'de karatenin ilk yıllarından itibaren JKA ile birlikte hangi ekol genelinde yayılmıştır?
+
+answer: Shotokan
+
+id: 108
+
+|
+
+question: Türkiye'de üniversitelerde karate müsabakalarını kim düzenler?
+
+answer: Türkiye Üniversite Sporları Federasyonu
+
+id: 109
+
+
+|
+
+context: Fotoğraf (Eski Yunanca Modern Yunanca: φῶς (fos), Modern Yunanca: φωτός (fotos)), “ışık (gök cisimlerinin)“, “aydınlık“ ve Modern Yunanca: γράφειν (grafein), “çizmek“, “kazımak“, “resim yapmak“, "yazmak" kelimeleri birleştirilerek türetilmiş bir isimdir. Kelime anlamı, ışık yardımı ile iz bırakmaktır. Fotoğraf, cisimlerden yansıyan elektromanyetik radyasyonun toplanıp odaklanmasıyla oluşturulur. En yaygın rastlanan fotoğraflar insan gözünün görebileceği kalıcı görüntüler meydana getiren dalga boylarıyla olan fotoğraflardır.
+
+Fotoğrafta en önemli unsur ışıktır. Işık üzerine vurduğu nesneleri görülebilir kıldığı gibi, fotoğraf oluşumunu da sağlar. Bu yüzden fotoğrafı çekecek makinedeki objektif de önem arz etmektedir. Objektifin diyafram değeri ne kadar küçükse içeriye giren ışık miktarı da o kadar çok olacağından fotoğraf çekiminde daha yüksek enstantaneler kullanılabilecektir. Diyafram'ın 1, olması objektife gelen ışığın tamamının sensöre düşmesidir. Kaliteli ve pahalı lenslerin diyafram değerleri genel olarak 2,8 ve daha düşüktür.
+
+Fotoğrafın çekilebilmesi için ışık şarttır. Işık herhangi bir kaynaktan cisme gelir. Cisimden yansıyan ışık bir algılayıcıya yani göze ya da filme ya da sensöre geldiği zaman görünür olur ve renkleri konusunda bilgi verir. Cisimlerin renkleri üzerine gelen ışığın ışık ısısı ve ne kadarını absorbe edip ne kadarını hangi dalga boyunda yansıttığına göre algılanır. Örneğin beyaz duvar sarı ışık ile aydınlatıldığında sarı, mavi ışık ile aydınlatıldığında ise mavi renk olarak görünür. Ancak kırmızı renkli cisim yeşil ışık ile aydınlatıldığında siyah gözükebilir.
+
+|
+
+topic: Fotoğraf
+
+|
+
+question: Fotoğraf kelimesinin anlamı nedir?
+
+answer: ışık yardımı ile iz bırakmaktır
+
+id: 110
+
+|
+
+question: Fotoğraf nasıl oluşturulur?
+
+answer: cisimlerden yansıyan elektromanyetik radyasyonun toplanıp odaklanmasıyla oluşturulur
+
+id: 111
+
+|
+
+question: Fotoğrafta en önemli unsur nedir?
+
+answer: Işıktır
+
+id: 112
+
+|
+
+question: Objektifin diyafram değeri neyi etkiler?
+
+answer: ne kadar küçükse içeriye giren ışık miktarı da o kadar çok olacağından fotoğraf çekiminde daha yüksek enstantaneler kullanılabilecektir
+
+id: 113
+
+|
+
+question: Işık ne işe yarar?
+
+answer: bir algılayıcıya yani göze ya da filme ya da sensöre geldiği zaman görünür olur ve renkleri konusunda bilgi verir
+
+id: 114
+
+|
+
+context: Sait Faik Abasıyanık (18 Kasım[11][12] ya da 22 Kasım[13] ya da 23 Kasım 1906[14][15] – 11 Mayıs 1954), Türk hikâye ve roman yazarı, şair. Türk hikâyeciliğinin önde gelen yazarlarından birisi olan Sait Faik[16], çağdaş hikâyeciliğe yaptığı katkılar nedeniyle Türk edebiyatının köşe taşlarından biri olarak kabul edilir.[17]
+
+Modern Türk hikâyeciliğinin öncülerinden olan Sait Faik, getirdiği yenilikler nedeniyle, "kökü kendisinde olan" bir yazar olarak kabul edilir.[18] Klasik öykü tekniğini yıkarak, doğayı ve insanları basit, samimi, iyi ve kötü taraflarıyla, olduğu gibi ama aynı zamanda şiirsel ve usta bir dille anlattı.[19] Döneminin pek çok sanatçısından farklı olarak, kendisini Batı'daki gelişmelerle sınırlamadı, hiçbir edebî anlayışın etkisinde hareket etmedi, belli bir tarzın takipçisi olmadı.[20] Asaf Hâlet Çelebi'nin ifadesiyle "Sait Faik kendi ismi içinde mahsur kalacaktır. Hele bizde son zamanlarda onun bazı raté taklitleri türemekle beraber muhakkak ne kendisinden evvel ve ne de sonra ona yakın kimse gelmedi."[21]
+
+Toplumsal sorunlara değil, bireyin toplum içindeki sorunlarına eğilen Sait Faik, öykülerinde çoğunlukla kendisinden yola çıkarak insanın hakikâtini anlamaya çalıştı.[22] Çoğunlukla şehirli alt sınıfın hayatını, balıkçı, işsiz, tacir, kıraathane sahibi gibi karakterleri anlattı.[22] İnsanların yaşama biçimlerini, arzularını, tasalarını, korkularını ve sevinçlerini irdeleyerek, "insanı ele alan sanatçılar" sınıfında yer aldı.
+
+|
+
+topic: Sait Faik Abasıyanık
+
+|
+
+question: Sait Faik Abasıyanık kimdir?
+
+answer: Türk hikâyeciliğinin önde gelen yazarlarından birisi
+
+id: 115
+
+|
+
+question: Sait Faik Abasıyanık nasıl bir yazar olarak kabul edilir?
+
+answer: "kökü kendisinde olan"
+
+id: 116
+
+|
+
+question: Sait Faik Abasıyanık'ın dönem sanatçılarından farkı nedir?
+
+answer: kendisini Batı'daki gelişmelerle sınırlamadı, hiçbir edebî anlayışın etkisinde hareket etmedi, belli bir tarzın takipçisi olmadı
+
+id: 117
+
+|
+
+question: Sait Faik Abasıyanık ne tür sorunlara eğilmiştir?
+
+answer: bireyin toplum içindeki sorunlarına
+
+id: 118
+
+|
+
+question: Sait Faik Abasıyanık hangi sınıfta yer aldı?
+
+answer: "insanı ele alan sanatçılar" sınıfında
+
+id: 119
+
+|
+
+context: Keops Piramidi, Khufu Piramidi ya da Büyük Piramit; günümüzde Mısır’ın başkenti Kahire'nin bir parçası olan Gize'yi çevreleyen antik “Gize mezar kenti”nde bulunan üç anıtsal piramitten en eski ve en büyük olanıdır. MÖ 2551-2560 yılları civarında yapıldığı sanılan bu anıtsal kompleks, Dünyanın yedi harikasından biri olup, bu yedi harika içinde günümüze kadar ulaşan tek eserdir, varlığını günümüze dek hemen hemen tam olarak sürdürebilmiş olanıdır.
+
+Bu piramidin Mısır firavunu Khufu adına bir anıtsal mezar olarak inşa edildiğine inanılır ve yapımının yaklaşık yirmi yıl sürdüğü sanılmaktadır. 20. yüzyıl başlarına dek, yani 3800 yıl boyunca hacmi ve kütlesi bakımından Dünya’daki en büyük yapay (insan yapımı) yapı olarak kabul edilmiş [1] ve yükseklik rekoru 4000 yıl boyunca kırılamamıştır. [not 1] Büyük Piramidin orijinal halinde dış kısmı taş levhalarla kaplıydı. Günümüzde bu kaplama tabakası mevcut değildir. Büyük Piramit ve yapımı ya da inşa tekniği hakkında günümüzde çok çeşitli varsayımlar bulunmaktadır. İnşa tekniği hakkındaki varsayımlardan birine göre yapılan spiral bir rampadan çıkarılan taş bloklar üst üste konuyordu. Rampa çamur kaplanıyor, sulanıyor ve taş bloklar itilerek kaydırılabiliyordu. Bir başka varsayıma göre taş bloklar dev manivelalarla kaldırılıyordu.
+
+Büyük Piramidin içinde üç oda saptanabilmiştir. Bunlardan yapının en altındaki oda, muhtemelen bitirilmemiş haldeki, piramidin üzerine inşa edildiği temel kayasının oyulmasıyla oluşturulmuş odadır. Sonradan “kral odası” ve “kraliçe odası” adları yakıştırılan [2] odalar ise piramidal yapının üst kısmında yer alırlar. Büyük piramit aslında, iki tapınaktan, bu iki tapınağı birbirlerine bağlayan bir yoldan, piramit çevresindeki mastaba adı verilen çeşitli küçük mezarlardan ve piramitlerden oluşan bir yapılar kompleksinin bir parçasıdır. Mısır’ın Eski İmparatorluk döneminden kaldığı sanılan bu taş eser, doğa koşullarının yıpratıcı etkilerine binlerce yıl karşı koyabilmiş olup, gizemleri bir bir ortaya çıkarılmakla birlikte, henüz tam olarak anlaşılamamış dev bir eser olarak varlığını sürdürmektedir.
+
+|
+
+topic: Keops Piramidi
+
+|
+
+question: Keops piramidi nerededir?
+
+answer:  Mısır’ın başkenti Kahire'nin bir parçası olan Gize'yi çevreleyen antik “Gize mezar kenti”nde
+
+id: 120
+
+|
+
+question: Ne zaman inşa edilmiştir?
+
+answer: MÖ 2551-2560 yılları civarında
+
+id: 121
+
+|
+
+question: Hangi amaçla inşa edilmiştir?
+
+answer:  Mısır firavunu Khufu adına bir anıtsal mezar olarak
+
+id: 122
+
+|
+
+question: Piramidin yükseklik rekoru ne kadar boyunca kırılamamıştır?
+
+answer: 4000 yıl
+
+id: 123
+
+|
+
+
+
+question: Büyük piramidin nasıl inşa edildiği varsayılır?
+
+answer: yapılan spiral bir rampadan çıkarılan taş bloklar üst üste konuyordu.
+
+id: 124
+
+|
+
+question: Piramidin içinde kaç oda bulunmuştur?
+
+answer: üç oda
+
+id: 125
+
+|
+context: YouTube, bir video barındırma web sitesidir. Merkezi Amerika Birleşik Devletleri'deki San Bruno, Kaliforniya şehrindedir. 15 Şubat 2005'te 3 eski PayPal çalışanı tarafından kurulmuştur. Kasım 2006'da Google tarafından 1.65 milyar dolara satın alınmıştır. Günümüzde Google'ın yan kuruluşlarından biri olarak faaliyetine devam etmektedir. Site, kullanıcılarına video yükleme, izleme ve paylaşma imkânı sunmaktadır. Medya şirketleri ve kullanıcı üretimi videoların gösterimi için WebM, H.264 ve Adobe Flash Video teknolojilerini kullanır. Genel olarak; Video klipler, televizyon klipleri, müzik videoları, video bloglar, kısa özgün videolar ve eğitim videoları gibi içerikler yayınlanmaktadır.
+
+YouTube üzerindeki içerikler genelde bireyler tarafından yüklenir. Fakat CBS, BBC, Vevo, Hulu gibi şirketler ve diğer organizasyonlar da YouTube ortaklık programı ile içeriklerinin bir kısmını yayınlamaktadır.[4] Site içi üyelik almayan kullanıcılar videoları izleyebilir. Onaylı üyeler ise kendi yayın kanallarına video yükleyebilir. Saldırganlık potansiyeli olan içerikler sadece 18 yaşından büyük olduğunu onaylayan üyeler tarafından izlenebilir.
+
+|
+
+topic: Youtube
+
+|
+
+question: Youtube nedir?
+
+answer:  bir video barındırma web sitesidir.
+
+id: 126
+
+|
+
+question: Hangi tarihte kurulmuştur?
+
+answer: 15 Şubat 2005'te
+
+id: 127
+
+|
+
+question: Youtube sahibi kimdir?
+
+answer: Google
+
+id: 128
+
+|
+
+question: Hangi teknolojileri kullanır?
+
+answer:  WebM, H.264 ve Adobe Flash Video teknolojilerini
+
+id: 129
+
+|
+
+question: Genel olarak ne tür içerikler yayınlanmaktadır?
+
+answer: Video klipler, televizyon klipleri, müzik videoları, video bloglar, kısa özgün videolar ve eğitim videoları gibi içerikler
+
+id: 130
+
+|
+
+question: İçerikler genelde kimler tarafından yüklenir?
+
+answer: bireyler
+
+id: 131
+
+|
